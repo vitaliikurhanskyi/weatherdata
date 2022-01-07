@@ -34,7 +34,7 @@ $result = $db->query("SELECT * FROM `weather`");
     </tr>
   </thead>
   <tbody>
-    <?php foreach($result as $kay => $array) : ?>
+    <?php foreach($result as $key => $array) : ?>
               
         <tr>
             <td><?php echo $array['datetime']; ?></td>
