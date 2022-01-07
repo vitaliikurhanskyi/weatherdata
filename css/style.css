@@ -1,0 +1,16 @@
+.content {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.error {
+    color: red;
+}
+
+.teperature span {
+    display: inline;
+    color: blue;
+}
+.imagebox img{
+    width: 100px;
+}
